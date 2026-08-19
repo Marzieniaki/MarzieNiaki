@@ -13,7 +13,7 @@
 <h2>👩‍💻 Projects</h2>
 
 - <b>EEG Emotion Recognition (Bipartite Graph-Transformer Architecture)</b>
-  - [Subject-independent EEG emotion recognition using a bipartite graph-transformer architecture](https://github.com/MarzieNiaki/Subject-independent EEG emotion recognition using a bipartite graph-transformer architecture)
+  - [Subject-independent EEG emotion recognition using a bipartite graph-transformer architecture](https://github.com/Marzieniaki/Subject-independent-EEG-emotion-recognition-using-a-bipartite-graph-transformer-architecture)
 - <b>EEG Intensity Modeling & Loss Weighting Experiments</b>
   - [Extended the base model with intensity prediction, and ran experiments to find optimal class/loss weighting for handling negative-class imbalance](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
   

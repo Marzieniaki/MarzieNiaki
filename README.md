@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marzie! <br/><a href="https://github.com/Marzieniaki">ML/DL Researcher</a>, <a href="torohttps://www.linkedin.com/in/marzie-pouresmaeil-niaki-ba73561bb/">EEG & Affective Computing</a></h1>
+<h1>Hi, I'm Marzie! <br/><a href="https://github.com/Marzieniaki">ML/DL Researcher</a>, <a href="https://www.linkedin.com/in/marzie-pouresmaeil-niaki-ba73561bb/">EEG & Affective Computing</a></h1>
 
 <p>M.Sc. in Applied Computer Science (University of Winnipeg), researching subject-independent EEG emotion recognition with graph-transformer models. Interested in the intersection of machine learning and biomedical signal processing — building models that generalize across subjects and hold up outside the lab.</p>
 
@@ -6,9 +6,9 @@
 
 - <b>Bipartite Graph Adversarial Network for Subject-Independent Emotion Recognition</b>
   - Published in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 — [DOI: 10.1109/JBHI.2025.3570187](https://doi.org/10.1109/JBHI.2025.3570187)
-- <b>Subject-Independent EEG Emotion Recognition with Intensity Modeling via Graph-Transformer Networks</b>
-  -Poster, IEEE-EMBS International Conference on Biomedical and Health Informatics, 2025 (Georgia, USA)
-  - Accepted and presented as poster, <i>International Conference of the IEEE Engineering in Medicine and Biology Society</i>,2026 (Toronto, Canada)
+  - Poster, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2025 (Atlanta, USA)
+- <b>EEG-Based Emotion and Intensity Recognition Using Bipartite Graph-Transformer Models</b>
+  - Accepted and presented as poster, <i>International Conference of the IEEE Engineering in Medicine and Biology Society</i> (EMBC), 2026 (Toronto, Canada)
 
 <h2>👩‍💻 Projects</h2>
 
@@ -27,7 +27,7 @@
 
 <h2>🛠️ Skills</h2>
 
-Python · PyTorch · scikit-learn · NumPy · pandas · MATLAB · Git · Linux Transformers · Graph Neural Networks · CNNs · RNNs/LSTMs · Transfer Learning EEG preprocessing · Feature extraction · Time-series modeling · BCI methods
+Python · PyTorch · scikit-learn · NumPy · pandas · MATLAB · Git · Linux · Transformers · Graph Neural Networks · CNNs · RNNs/LSTMs · Transfer Learning · EEG preprocessing · Feature extraction · Time-series modeling · BCI methods
 
 <h3>📚 Currently Learning</h3>
 

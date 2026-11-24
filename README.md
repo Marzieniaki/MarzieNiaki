@@ -6,6 +6,9 @@
 
 - <b>Bipartite Graph Adversarial Network for Subject-Independent Emotion Recognition</b>
   - Published in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 — [DOI: 10.1109/JBHI.2025.3570187](https://doi.org/10.1109/JBHI.2025.3570187)
+  - Poster, IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), 2025 (Atlanta, USA)
+- <b>EEG-Based Emotion and Intensity Recognition Using Bipartite Graph-Transformer Models</b>
+  - Accepted and presented as poster, <i>International Conference of the IEEE Engineering in Medicine and Biology Society</i> (EMBC), 2026 (Toronto, Canada)
 - <b>Subject-Independent EEG Emotion Recognition with Intensity Modeling via Graph-Transformer Networks</b>
   - Poster, IEEE-EMBS International Conference on Biomedical and Health Informatics, 2025 (Georgia, USA)
   - Accepted and presented as poster, <i>International Conference of the IEEE Engineering in Medicine and Biology Society</i>,2026 (Toronto, Canada)
